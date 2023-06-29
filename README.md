@@ -1,2 +1,2 @@
-# Intera-o-Humano-Computador
+# Interacao-Humano-Computador
 Cadeira de Interação Humano-Computador
